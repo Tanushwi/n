@@ -4,7 +4,7 @@ import sqlite3
 import os
 
 root=Tk()
-root.geometry("900x900")
+root.geometry("200x200")
 root.title("New User Login Screen")
 
 txtname=StringVar()
